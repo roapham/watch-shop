@@ -1,0 +1,121 @@
+<!-- BRANDS nav -->
+                    <li class="dropdown brandmenu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name">BRANDS</span><span class="caret"></span>
+                        </a>
+                        <ul ng-controller="navController" class="dropdown-menu list-inline span5 brand">
+                            <li><span class="brandgroup">MOST POPULAR BRANDS</span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="brand in most_popular_brands">
+                                        <a class="brand-item popular-brand" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li style="border-left: 1px solid #d6d6d6"><span class="brandgroup">OTHER POPULAR BRANDS</span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="brand in other_popular_brands1">
+                                        <a class="brand-item" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul class="other-brand-group">
+                                    <li ng-repeat="brand in other_popular_brands2">
+                                        <a class="brand-item" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul class="other-brand-group">
+                                    <li ng-repeat="brand in other_popular_brands3">
+                                        <a class="brand-item" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li style="border-right: 1px solid #d6d6d6">
+                                <ul class="other-brand-group">
+                                    <li ng-repeat="brand in other_popular_brands4">
+                                        <a class="brand-item" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><span class="brandgroup">LUXURY BRANDS</span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="brand in luxury_brands">
+                                        <a class="brand-item" href="#">{{ brand}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- MEN'S WATCHES -->
+                    <li class="dropdown brandmenu">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name">MEN'S WATCHES</span><span class="caret"></span>
+                        </a>
+                        <ul ng-controller="navController" class="dropdown-menu list-inline men-watch" role="menu">
+                            <li ng-repeat="group in men_watch"><span class="brandgroup">{{ group.group}} </span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="name in group.names">
+                                        <a class="brand-item" href="#">{{ name}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- LADIES' WATCHES -->
+                    <li class="dropdown brandmenu">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name">LADIES' WATCHES</span><span class="caret"></span>
+                        </a>
+                        <ul ng-controller="navController" class="dropdown-menu list-inline men-watch" role="menu">
+                            <li ng-repeat="group in ladies_watch"><span class="brandgroup">{{ group.group}} </span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="name in group.names">
+                                        <a class="brand-item" href="#">{{ name}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- KID'S WATCHES -->
+                    <li class="dropdown brandmenu">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name">KID</span><span class="caret"></span>
+                        </a>
+                        <ul ng-controller="navController" class="dropdown-menu list-inline men-watch" role="menu">
+                            <li ng-repeat="group in kid_watch"><span class="brandgroup">{{ group.group}} </span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="name in group.names">
+                                        <a class="brand-item" href="#">{{ name}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- CATEGORIES -->
+                    <li class="dropdown brandmenu">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name">CATEGORIES</span><span class="caret"></span>
+                        </a>
+                        <ul ng-controller="navController" class="dropdown-menu list-inline brand categories" role="menu">
+                            <li ng-repeat="group in categories"><span class="brandgroup">{{ group.group}} </span>
+                                <ul class="margin-top-5">
+                                    <li ng-repeat="name in group.names">
+                                        <a class="brand-item" href="#">{{ name}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- SALE OFF -->
+                    <li class="dropdown brandmenu">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="nav-name sale-off">SALE OFF</span>
+                        </a>
+                    </li>
+<\/a>\n\(.\+\n\)\{9}.\{74}
+src="\.\+\/.\+border="\d" 
+\<.\+\/
+<div.\+\n<.\+
+<\/span>\n\(.\+\n\)\{4}.\+

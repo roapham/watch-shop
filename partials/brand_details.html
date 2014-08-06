@@ -1,0 +1,24 @@
+<div class="content-here" >
+    <div class="row">
+        <div class="col-md-3">
+            <h2 class="brand-name">{{ data.brand_name}}</h2>
+        </div>
+        <div class="col-md-9">
+            <p class="brand-desc">{{ data.brand_desc}}</p>
+        </div>
+    </div>
+
+    <!-- products div -->
+    <div class="vcenter thumbnail product-listing" ng-repeat="product in data.products| filter:query" >
+        <a href="#/product/{{ product.id}}">
+            <img src="{{ product.image}}" alt="...">
+            <center>
+                <h5>{{ product.name}}</h5>
+                <p class="brand"><i>{{ product.brand}}</i></p>
+                <div class="sale-price">{{ product.sale_price}}</div>
+                <div class="original-price">{{ product.original_price}}</div>
+            </center>
+        </a>
+
+    </div><!-- /. product div -->
+</div>

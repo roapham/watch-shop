@@ -1,0 +1,44 @@
+<div class="content-here">
+    <div class="row padding-bot-50">
+        <div class="col-md-6 col-md-offset-3">
+            <h3>CREATE AN ACCOUNT</h3>
+            <form name="form">                
+                <div class="form-group">
+                    <label for="firstName">First name <span class="required">*</span></label>
+                    <input type="text" required id="firstName" class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label for="lastName">Last name <span class="required">*</span></label>
+                    <input class="form-control" required id="lastName" type="text"/>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email address <span class="required">*</span></label>
+                    <input class="form-control" required id="email" type="email"/>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password <span class="required">*</span></label>
+                    <input class="form-control" ng-model="login.password" type="password" name="password" required id="password"/>
+                </div>
+                <div class="form-group">
+                    <label for="confirmPass">Confirm password <span class="required">*</span></label>
+                    <input class="form-control" ng-model="login.verify" type="password" name="verify" required nx-equal="login.password" id="confirmPass"/>
+                    <div class="error" ng-show="form.verify.$error.nxEqual">Must be equal!</div>
+                </div>
+                <a href="#/login" class="go-back"><u><< Go back</u></a>
+                <button class="btn btn-primary float-right" type="submit">SUBMIT</button>
+            </form>
+
+            <!--            <form name="form">
+                            <div class="form-group">
+                                <label for="password">Password <span class="required">*</span></label>
+                                <input class="form-control" ng-model="login.password" type="password" name="password" placeholder="Password" required><br>
+                            </div>
+                            
+                            <div class="error" ng-show="form.password.$error.required">Required</div>
+                            <input ng-model="login.verify" type="password" name="verify" placeholder="Confirm Password" required nx-equal="login.password"><br>
+                            <div class="error" ng-show="form.verify.$error.required">Required!</div>
+                            <div class="error" ng-show="form.verify.$error.nxEqual">Must be equal!</div>
+                        </form>-->
+        </div>
+    </div>
+</div>

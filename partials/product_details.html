@@ -1,0 +1,36 @@
+<div class="content-here">
+    <div class="row back-to-overview"><a href="" ng-click="go_back()">BACK TO OVERVIEW</a></div>
+    <div class="row">
+        <div class="col-md-4 group-left">
+            <h3  class="title-description">{{ product.name }}</h3>
+            <p>{{ product.description }}</p>
+            <div class="function-field">
+                <a href="">ADD TO MY FAVORITES</a>
+            </div>
+            <div class="function-field">
+                <a href="">VIEW MY FAVORITES</a>
+            </div>
+            <div class="function-field">
+                <a href="#/store_location">FIND NEAREST STORE</a>
+            </div>
+            <div class="function-field">
+                <button class="btn btn-primary">ADD TO CART</button>
+            </div>
+        </div>
+
+        <div class="col-md-5 group-mid">
+            <img src="{{ product.image_big}}" alt="{{ product.name}}">
+        </div>
+
+        <div class="col-md-3 group-right">
+            <div class="ref-information">
+                <div class="row"><strong>REFERENCE INFORMATION</strong></div>
+                <div class="row" ng-repeat="ref in product.reference_informations"><img src="{{ ref.image}}" alt="..."> {{ ref.infor}}</div>
+            </div>
+            <div class="features">
+                <div class="row"><strong>FEATURES</strong></div>
+                <div class="row" ng-repeat="feature in product.features"><img src="{{ feature.image}}" alt=""> {{ feature.feature_name}}</div>
+            </div>
+        </div>
+    </div>
+</div>

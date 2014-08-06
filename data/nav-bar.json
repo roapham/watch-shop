@@ -1,0 +1,38 @@
+[
+    {
+        "name": "BRANDS",
+        "list": [
+            { "brand": "longinest", "href": "#/brand/longinest", "img": "images/h3259675_small.png"},
+            { "brand": "tissot", "href": "", "img": "images/h38755751_small.png" },
+            { "brand": "mido", "href": "", "img": "images/h24655331.png" },
+            { "brand": "calvin klein", "href": "", "img": "images/h76456435_small_1.png" },
+            { "brand": "citizen", "href": "", "img": "images/h60455593_small.png" }
+        ],
+        "dropdown": "true"
+    },
+    {
+        "name": "WATCH FINDER",
+        "href": "#/watch_finder",
+        "active_link": "'active': isActive('/watch_finder')"
+    },
+    {
+        "name": "STORE LOCATION",
+        "href": "#/store_location",
+        "active_link": "'active': isActive('/store_location')"
+    },
+    {
+        "name": "BESTSELLER",
+        "href": "#/bestseller",
+        "active_link": "'active': isActive('/bestseller')"
+    },
+    {
+        "name": "SALE OFF",
+        "href": "#/sale_off",
+        "active_link": "'active': isActive('/sale_off')"
+    },
+    {
+        "name": "CONTACT US",
+        "href": "#/contact_us",
+        "active_link": "'active': isActive('/contact_us')"
+    }
+]

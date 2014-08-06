@@ -1,0 +1,26 @@
+[
+    {
+        "brand": "ROTARY WATCHES",
+        "min_price": "FROM $101.11",
+        "href": "",
+        "image": "images/rotary.jpg"
+    },
+    {
+        "brand": "G-SHOCK WATCHES",
+        "min_price": "FROM $68.55",
+        "href": "",
+        "image": "images/g-shock.jpg"
+    },
+    {
+        "brand": "CITIZEN ECODRIVE WATCHES",
+        "min_price": "FROM $171.37",
+        "href": "",
+        "image": "images/citizen.jpg"
+    },
+    {
+        "brand": "RADLEY WATCHES",
+        "min_price": "FROM $68.55",
+        "href": "",
+        "image": "images/radley-home-banner.jpg"
+    }
+]

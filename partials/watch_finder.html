@@ -1,0 +1,27 @@
+<div class="content-here">
+    <h5>Use the selections and dropdowns below to find your ideal watch</h5>
+    <form>
+        <div class="watch-finder" ng-repeat="f in field" >
+            <select class="form-control">
+                <option ng-repeat="value in f" value="{{ value}}">{{ value}}</option>
+            </select>
+        </div>
+
+        <button class="btn btn-primary button-reset">Search</button>
+    </form>
+
+
+    <!-- products div -->
+    <div class="vcenter thumbnail product-listing" ng-repeat="product in products| filter:query" >
+        <a href="#/product/{{ product.id}}">
+            <img src="{{ product.image}}" alt="...">
+            <center>
+                <h5>{{ product.name}}</h5>
+                <p class="brand"><i>{{ product.brand}}</i></p>
+                <div class="sale-price">{{ product.sale_price}}</div>
+                <div class="original-price">{{ product.original_price}}</div>
+            </center>
+        </a>
+    </div><!-- /. product div -->
+
+</div>

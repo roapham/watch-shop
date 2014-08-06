@@ -1,0 +1,336 @@
+[
+    {
+        "nav_name": "BRANDS",
+        "css_class": "brand",
+        "href": "#/brands",
+        "menus": [
+            {
+                "group": "MOST POPULAR BRANDS",
+                "names": [
+                    "ACCURIST",
+                    "ARMANI EXCHANGE",
+                    "BULOVA",
+                    "DIESEL",
+                    "DKNY",
+                    "EMPORIO ARMANI",
+                    "FESTINA",
+                    "FOSSIL",
+                    "ICE-WATCH",
+                    "LORUS",
+                    "MARC BY MARC JACOBS",
+                    "MICHAEL KORS",
+                    "PULSAR",
+                    "ROTARY",
+                    "SEKONDA",
+                    "SEKSY",
+                    "SKAGEN",
+                    "VIVIENNE WESTWOO"
+                ]
+            },
+            {
+                "group": "OTHER PUPULAR BRANDS",
+                "names": [
+                    "ACCURIST",
+                    "ADIDAS",
+                    "ADIDAS PERFORMANCE",
+                    "ASICS",
+                    "BABY-G",
+                    "BARBOUR",
+                    "BEN SHERMAN",
+                    "BERING",
+                    "BLACK DICE",
+                    "BRAUN",
+                    "BREIL",
+                    "BREO",
+                    "CANNIBAL",
+                    "D&G",
+                    "DISNEY BY INGERSOLL",
+                    "DKNY",
+                    "EDIFICE",
+                    "ELLE GIR"
+                ],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "",
+                "names": [
+                    "FESTINA",
+                    "FIRETRAP",
+                    "FIYTA",
+                    "FRENCH CONNECTION",
+                    "GIO GOI",
+                    "GOLA",
+                    "HUGO BOSS ORANGE",
+                    "ICE-WATCH",
+                    "J&T WINDMILLS",
+                    "JUST CAVALLI",
+                    "KAHUNA",
+                    "KAREN MILLEN",
+                    "KENNETH COLE",
+                    "KENNETT",
+                    "LACOSTE",
+                    "LIFEMAX",
+                    "LIMIT",
+                    "LIPS"
+                ]
+            },
+            {
+                "group": "",
+                "names": [
+                    "LORUS",
+                    "LOTUS",
+                    "LUMINOX",
+                    "MONDAINE",
+                    "MORGAN",
+                    "NAUTICA",
+                    "OASIS",
+                    "OLD ENGLAND",
+                    "PAULS BOUTIQUE",
+                    "PHILIPPE STARCK",
+                    "POLAR",
+                    "POLICE",
+                    "PRECISION",
+                    "PRIDE",
+                    "PRIDE FOOTBALL",
+                    "PULSAR",
+                    "RODANIA",
+                    "RODANIA SWIS"
+                ]
+            },
+            {
+                "group": "",
+                "names": [
+                    "ROYAL LONDON",
+                    "SEKSY",
+                    "SHEEN",
+                    "SWISS EAGLE",
+                    "TED BAKER",
+                    "TENDENCE",
+                    "TIKKERS",
+                    "TIMEX",
+                    "TIMEX IQ",
+                    "TIMEX ORIGINALS",
+                    "TIMEX PERFORMANCE",
+                    "TOMMY HILFIGER",
+                    "UNLTD",
+                    "VIVIENNE WESTWOOD",
+                    "WENGER",
+                    "WIZE & OPE",
+                    "ZEPPELI"
+                ]
+            },
+            {
+                "group": "LUXURY BRANDS",
+                "names": [
+                    "ALPINA",
+                    "BULOVA ACCUTRON",
+                    "DREYFUSS & CO",
+                    "FREDERIQUE CONSTANT",
+                    "MAURICE LACROIX",
+                    "ROAMER",
+                    "VERSACE",
+                    "VICTORINO"
+                ],
+                "group_css": "vertical-divider"
+            }
+        ]
+    },
+    {
+        "nav_name": "MEN'S WATCHES",
+        "css_class": "men-watch",
+        "href": "#/men-watches",
+        "menus": [
+            {
+                "group": "PRICE RANGES",
+                "names": [
+                    "UNDER £30",
+                    "£30 - £60",
+                    "£60 - £100'",
+                    "£100 - £200'",
+                    "£200 - £500",
+                    "£500"
+                ]
+            },
+            {
+                "group": "MEN CATEGORY",
+                "names": [
+                    "NEW IN: MENS",
+                    "MEN'S CLASSIC",
+                    "MEN'S DESIGNER LABEL",
+                    "MEN'S LUXURY",
+                    "MEN'S SPORTS"
+                ],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "TOP 10 MEN'S BRANDS",
+                "names": [
+                    "ARMANI EXCHANGE",
+                    "CASIO', 'CITIZEN'",
+                    "DIESEL",
+                    "EMPORIO ARMANI'",
+                    "FOSSIL",
+                    "HUGO BOSS",
+                    "ROTARY",
+                    "SEIKO'",
+                    "TISSO"
+                ],
+                "group_css": "vertical-divider"
+            }
+        ]
+    },
+    {
+        "nav_name": "LADIES' WATCHES",
+        "css_class": "men-watch",
+        "menus": [
+            {
+                "group": "PRICE RANGES",
+                "names": [
+                    "UNDER £30",
+                    "£30 - £60",
+                    "£60 - £100",
+                    "£100 - £200",
+                    "£200 - £500",
+                    "£500+"
+                ]
+            },
+            {
+                "group": "LADIES CATEGORIES",
+                "names": [
+                    "NEW IN: LADIES",
+                    "LADIES' CLASSIC",
+                    "LADIES' DESIGNER LABEL",
+                    "LADIES' LUXURY",
+                    "LADIES' SPORTS"
+                ],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "TOP 10 LADIES' BRANDS",
+                "names": [
+                    "BULOVA",
+                    "DKNY",
+                    "EMPORIO ARMANI",
+                    "FOSSIL",
+                    "MARC BY MARC JACOBS",
+                    "MICHAEL KORS",
+                    "ROTARY",
+                    "SEKONDA",
+                    "SEKSY",
+                    "SKAGEN"
+                ],
+                "group_css": "vertical-divider"
+            }
+        ]
+    },
+    {
+        "nav_name": "KIDS",
+        "css_class": "men-watch",
+        "menus": [
+            {
+                "group": "CHILDRENS' BRANDS",
+                "names": [
+                    "ADIDAS",
+                    "CANNIBAL",
+                    "CHARACTER",
+                    "FLIK FLAK",
+                    "LORUS",
+                    "MOSHI MONSTERS",
+                    "SEKONDA",
+                    "TIKKERS",
+                    "TIMEX"
+                ]
+            }
+        ]
+    },
+    {
+        "nav_name": "CATEGORIES",
+        "css_class": "brand categories",
+        "menus": [
+            {
+                "group": "POPULAR",
+                "names": ["SALE",
+                    "BEST SELLERS",
+                    "EXCLUSIVE",
+                    "GIFT FINDER",
+                    "YOUR SHORTLIS",
+                    "NEW IN"]
+            },
+            {
+                "group": "PRICE RANGES",
+                "names": ["UNDER £30",
+                    "£30 - £60",
+                    "£60 - £100",
+                    "£100 - £200",
+                    "£200 - £500",
+                    "£500+"],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "OTHER",
+                "names": ["POCKET WATCHES",
+                    "CLOCKS"],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "BY WATCH TYPE",
+                "names": [
+                    "ALARM",
+                    "ALUMINIUM",
+                    "ANALOGUE",
+                    "ANA-DIG COMBO",
+                    "BACKLIGHT",
+                    "BOYFRIEND",
+                    "CHEAP / VALUE",
+                    "CHRONOGRAPH",
+                    "COMPASS",
+                    "CUFF",
+                    "DESIGNER",
+                    "DIAMOND",
+                    "DIGITAL"],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "",
+                "names": ["DIVERS",
+                    "DUAL TIME",
+                    "EXPANDABLE",
+                    "FOOTBALL",
+                    "NURSES FOB",
+                    "OVERSIZED",
+                    "RADIO CONTROLLED",
+                    "RUNNING",
+                    "SKELETON",
+                    "SLIM (THIN)",
+                    "SOLAR POWERED",
+                    "SPORTS",
+                    "WATERPROOF"]
+            },
+            {
+                "group": "BY MOVEMENT TYPE",
+                "names": ["QUARTZ",
+                    "AUTOMATIC",
+                    "MECHANICAL (WIND-UP)"],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "BY CASE MATERIAL",
+                "names": ["CERAMIC",
+                    "PLASTIC",
+                    "STERLING SILVER",
+                    "TITANIUM",
+                    "GENUINE GOLD"],
+                "group_css": "vertical-divider"
+            },
+            {
+                "group": "BY ORIGIN",
+                "names": ["SWISS",
+                    "JAPANESE",
+                    "BRITISH",
+                    "GERMAN",
+                    "DANISH"],
+                "group_css": "vertical-divider"
+            }
+        ]
+    }
+]

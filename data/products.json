@@ -1,0 +1,938 @@
+[
+    {
+        "name": "Aviation Auto",
+        "brand": "longines",
+        "image": "images/small/H76665135_16.png",
+        "id": "1",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "longines",
+        "image": "images/small/H76665725_13.png",
+        "id": "2",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "longines",
+        "image": "images/small/H76665125_13.png",
+        "id": "3",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "longines",
+        "image": "images/small/H76565135_13.png",
+        "id": "4",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "longines",
+        "image": "images/small/H76565835_11.png",
+        "id": "5",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "citizen",
+        "image": "images/small/H76565125_11.png",
+        "id": "6",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "citizen",
+        "image": "images/small/H76565725_11.png",
+        "id": "7",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Aviation Auto",
+        "brand": "citizen",
+        "image": "images/small/H64615135_7.png",
+        "id": "8",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Day Date",
+        "brand": "mido",
+        "image": "images/small/H64615155_7.png",
+        "id": "9",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Day Date",
+        "brand": "mido",
+        "image": "images/small/H64615735_7.png",
+        "id": "10",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Day Date",
+        "brand": "mido",
+        "image": "images/small/H64615555_7.png",
+        "id": "11",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Day Date",
+        "brand": "obaku",
+        "image": "images/small/H64715535_7.png",
+        "id": "12",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Auto",
+        "brand": "obaku",
+        "image": "images/small/H64785835_7.png",
+        "id": "13",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Auto",
+        "brand": "titan",
+        "image": "images/small/H64715885_7.png",
+        "id": "14",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Auto",
+        "brand": "titan",
+        "image": "images/small/H64715135_7.png",
+        "id": "15",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Auto",
+        "brand": "calvin klein",
+        "image": "images/small/H64425135_7.png",
+        "id": "16",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Pilot Auto",
+        "brand": "calvin klein",
+        "image": "images/small/H76655733_7.png",
+        "id": "17",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "QNE Auto",
+        "brand": "esprit",
+        "image": "images/small/H76655133_7.png",
+        "id": "18",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "QNE Auto",
+        "brand": "ogival",
+        "image": "images/small/H76655723_7.png",
+        "id": "19",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "QNE Auto",
+        "brand": "rhythm",
+        "image": "images/small/H76655123_7.png",
+        "id": "20",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "QNE Auto",
+        "brand": "rhythm",
+        "image": "images/small/h70455533.png",
+        "id": "21",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "skagen",
+        "image": "images/small/H70455133_7.png",
+        "id": "22",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "skagen",
+        "image": "images/small/H70455553_7.png",
+        "id": "23",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "skagen",
+        "image": "images/small/H70455733_7.png",
+        "id": "24",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "skagen",
+        "image": "images/small/H70455153_7.png",
+        "id": "25",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "skagen",
+        "image": "images/small/H70455523_7.png",
+        "id": "26",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70455863_7.png",
+        "id": "27",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 38mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70595523_7.png",
+        "id": "28",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 40mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70595593_7.png",
+        "id": "29",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 40mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70595733_7.png",
+        "id": "30",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 40mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70595133_7.png",
+        "id": "31",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 40mm",
+        "brand": "claude bernard",
+        "image": "images/small/H70515137_7.png",
+        "id": "32",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 42mm",
+        "brand": "tissot",
+        "image": "images/small/H70555533_7.png",
+        "id": "33",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 42mm",
+        "brand": "tissot",
+        "image": "images/small/H70555523_7.png",
+        "id": "34",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 42mm",
+        "brand": "tissot",
+        "image": "images/small/H70625533_7.png",
+        "id": "35",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 44mm",
+        "brand": "tissot",
+        "image": "images/small/H70625133_7.png",
+        "id": "36",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Auto 44mm",
+        "brand": "tissot",
+        "image": "images/small/H70575733_7.png",
+        "id": "37",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Titanium Auto",
+        "brand": "tissot",
+        "image": "images/small/H70525133_7.png",
+        "id": "38",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    },
+    {
+        "name": "Titanium Auto",
+        "brand": "tissot",
+        "image": "images/small/H70565133_7.png",
+        "id": "39",
+        "sale_price": "$1,995",
+        "original_price": "$3,000",
+        "sale_off": "true",
+        "bestseller": "true",
+        "features": [
+            {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+            {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+            {"feature_name": "Lug width 18mm", "image": "images/features/lug_width_18.png"},
+            {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+            {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+            {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+            {"feature_name": "40mm", "image": "images/features/40mm.png"}
+        ],
+        "reference_informations": [
+            {"ref_magnifier": "H42555751", "image": "images/references/magnifier.png"},
+            {"circle": "Cal. H-20-S", "image": "images/references/circle.png"},
+            {"cap": "H600.384.102", "image": "images/references/cap.png"}
+        ]
+    }
+]

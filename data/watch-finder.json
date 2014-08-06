@@ -1,0 +1,7 @@
+{
+    "gender": ["All genders", "Gents", "Ladies"],
+    "size": ["All sizes", "L", "M", "S", "XL", "XS"],
+    "movement": ["All movements", "Automatic", "Automatic Chrono", "Chrono Quartz", "Digital", "Hand Winding", "Quartz"],
+    "dial": ["All Dials", "Beige", "Black", "Blue", "Brown", "Gold", "Green", "Silver/Grey", "White"],
+    "bracelets": ["All Bracelets", "Bracelet", "Leather", "Rubber", "Textile"]
+}

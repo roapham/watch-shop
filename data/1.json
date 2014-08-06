@@ -1,0 +1,27 @@
+{
+    "name": "Aviation Auto",
+    "brand": "longines",
+    "image": "images/small/H76665135_16.png",
+    "image_big": "images/big/H76665135_16.png",
+    "id": "1",
+    "sale_price": "$1,995",
+    "original_price": "$3,000",
+    "sale_off": "true",
+    "bestseller": "true",
+    "features": [
+        {"feature_name": "Open Case Back", "image": "images/features/open_case_back.png"},
+        {"feature_name": "Automatic", "image": "images/features/automatic.png"},
+        {"feature_name": "Lug width 20mm", "image": "images/features/lug_width_20.png"},
+        {"feature_name": "Sapphire Crystal", "image": "images/features/sapphire_crystal.png"},
+        {"feature_name": "Water Resistance 5 bar (50m)/73psi(164 ft)", "image": "images/features/water_resistance_5bar.png"},
+        {"feature_name": "Stainless Steel", "image": "images/features/stainless_steel.png"},
+        {"feature_name": "42mm", "image": "images/features/42mm.png"}
+    ],
+    "reference_informations": [
+        {"infor": "H42555751", "image": "images/references/magnifier.png"},
+        {"infor": "Cal. H-20-S", "image": "images/references/circle.png"},
+        {"infor": "H600.384.102", "image": "images/references/cap.png"}
+    ],
+    "back_to": "#/sale_off",
+    "description": "Powered by an automatic movement the Khaki Aviation is available in 38mm and 42mm to fit every wrist. A range of straps from a metal bracelet to a soft khaki leather strap give the timepiece a look of adventure. The big numbers and indexes recall the pilot’s necessity to read watches with ease during turbulence."
+}
